@@ -3,9 +3,13 @@
 CardioGuard is an AI-powered cardiovascular risk assessment system designed to detect potential heart health risks early. By analyzing key health parameters, it provides a personalized heart risk score and alerts users in high-risk situations, helping prevent life-threatening cardiac events through timely intervention.
 
 ---
-                                                           DEMO
+                                                             DEMO
 
   <img width="1890" height="908" alt="image" src="https://github.com/user-attachments/assets/fd5a55bd-daac-4131-810d-f27fceb883f1" />
+
+
+
+---
 
 🚀 Features
 
