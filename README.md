@@ -1,28 +1,52 @@
-❤️ CardioGuard
+                                                          ❤️ CardioGuard
 
 CardioGuard is an AI-powered cardiovascular risk assessment system designed to detect potential heart health risks early. By analyzing key health parameters, it provides a personalized heart risk score and alerts users in high-risk situations, helping prevent life-threatening cardiac events through timely intervention.
 
+---
+                                                           DEMO
+
+  <img width="1890" height="908" alt="image" src="https://github.com/user-attachments/assets/fd5a55bd-daac-4131-810d-f27fceb883f1" />
+
 🚀 Features
 
+
 📊 AI-Based Risk Prediction
+
 Calculates heart risk percentage using user health data
 
+
+
 ⚠️ Real-Time Alerts
+
 High risk → Danger alert with beep sound
+
 Suggests immediate medical consultation
 
+
 🏥 Nearby Hospital Support
+
 Displays nearby hospitals for emergency situations
 
+---
+
+
 ✅ Low Risk Feedback
+
 Encouraging message
+
 Preventive health suggestions
+
 Relaxing sound feedback
 
+
+---
+
 🧠 Preventive Focus
+
 Helps users act early before critical heart conditions develop
 
 
+---
 
 🧾 Input Parameters
 
@@ -41,6 +65,7 @@ Body Mass Index (BMI)
 Smoking Status (Smoker / Non-Smoker)
 
 
+---
 
 ⚙️ How It Works
 
@@ -71,10 +96,10 @@ Encourages healthy lifestyle
 Plays relaxing sound
 
 
+---
 
 🛠️ Tech Stack
 
-(Customize this section based on what you used)
 
 Frontend: HTML, CSS, JavaScript
 
@@ -85,39 +110,41 @@ Machine Learning: Scikit-learn / Custom Model
 APIs: Google Maps API (for hospital location)
 
 
+---
 
 📦 Installation
 
-# Clone the repository
+
+Clone the repository
 
 git clone https://github.com/shivamtyagi179/CardioGuard.git
 
 
-# Navigate into the project
+Navigate into the project
 
 cd CardioGuard
 
 
 
-# Install dependencies
+Install dependencies
 
 npm install
 
-# or
+  or
 
 pip install -r requirements.txt
 
 
-
-# Run the project
+Run the project
 
 npm start
 
-# or
+or
 
 python app.py
 
 
+---
 
 ▶️ Usage
 
@@ -130,6 +157,7 @@ Click Analyze
 View your heart risk score and recommendations
 
 
+---
 
 ⚠️ Disclaimer
 
@@ -139,8 +167,7 @@ It is intended for informational and preventive purposes only.
 
 Always consult a qualified healthcare professional for medical advice.
 
-
-
+---
 
 🎯 Motivation
 
@@ -149,9 +176,6 @@ This project was built with the goal of addressing a critical issue:
 Many people lose their lives to heart attacks not due to lack of treatment, but due to late detection.
 
 CardioGuard aims to reduce preventable deaths by enabling early awareness and timely action.
-
-
-
 
 🔮 Future Improvements
 
@@ -166,46 +190,43 @@ CardioGuard aims to reduce preventable deaths by enabling early awareness and ti
 🧾 Detailed health insights & reports
 
 
-
+---
 
 🤝 Contributing
 
 Contributions are welcome!
 
-# Fork the repo
+ Fork the repo
 
-# Create your branch
+ Create your branch
 
 git checkout -b feature-name
 
-
-
-# Commit changes
+ Commit changes
 
 git commit -m "Add new feature"
 
-
-
-# Push to branch
+ Push to branch
 
 git push origin feature-name
 
 Then open a Pull Request 🚀
 
 
+---
 
 📄 License
 
 This project is licensed under the MIT License.
 
-
-
+---
 
 👤 Author
 
 Name-Shivam tyagi
 
 GitHub: https://github.com/shivamtyagi179
+
 ⭐ Support
 
 If you like this project, please ⭐ the repository and share it!
